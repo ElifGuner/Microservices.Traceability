@@ -1,7 +1,7 @@
 ****************************************************************
 		   Microservices Traceability
-			        Elif Güner
-			        28.02.2024
+			Elif Güner
+			20.03.2024
 ****************************************************************
 Example NLog configurations for the following applications:
    - Console Applicaiton
